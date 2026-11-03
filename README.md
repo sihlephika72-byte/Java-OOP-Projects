@@ -29,8 +29,8 @@ COS101-Java-Practicals/
 ├── .gitignore               # Excludes compiled binaries and IDE metadata
 ├── README.md                # Project documentation
 └── src/
-    ├── OOP_PROJECT_1/       # Practical 1: Superhero Hierarchy & Inheritance
-    ├── OOP_PROJECT_2/       # Practical 2: Bank Account System (Interfaces & Abstract Classes)
+    ├── OOP_PROJECT_1/       # Practical 1: Bank Account System (Interfaces & Abstract Classes)
+    ├── OOP_PROJECT_2/       # Practical 2: Superhero Hierarchy & Inheritance
     ├── OOP_PROJECT_3/       # Practical 3: Numeric Progression System
     ├── OOP_PROJECT_4/       # Practical 3: Inventory & Transportable Systems (Multiple Interfaces)
     └── OOP_PROJECT_5/       # Practical 5: Employee Payroll System & Static Tracking
