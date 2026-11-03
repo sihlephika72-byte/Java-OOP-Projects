@@ -1,0 +1,30 @@
+Full-time student {
+id: F001
+name: Clare
+credits: 180
+balance: R13920,87
+}
+Full-time student {
+id: F003
+name: Mandla
+credits: 120
+balance: R9280,00
+}
+Full-time student {
+id: F005
+name: Khaya
+credits: 120
+balance: R11600,12
+}
+Full-time student {
+id: F007
+name: Jordan
+credits: 150
+balance: R6960,29
+}
+Full-time student {
+id: F009
+name: Natalie
+credits: 90
+balance: R16820,00
+}

@@ -1,0 +1,30 @@
+Part-time student {
+id: P001
+name: Nkosi
+credits: 75
+balance: R3500,50
+}
+Part-time student {
+id: P004
+name: Sbu
+credits: 120
+balance: R1576,04
+}
+Part-time student {
+id: P006
+name: Mohamed
+credits: 180
+balance: R4410,00
+}
+Part-time student {
+id: P008
+name: Lisa
+credits: 105
+balance: R788,29
+}
+Part-time student {
+id: P010
+name: Siya
+credits: 150
+balance: R10450,55
+}
